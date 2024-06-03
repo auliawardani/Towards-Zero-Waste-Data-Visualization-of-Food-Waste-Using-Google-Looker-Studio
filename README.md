@@ -1,2 +1,2 @@
-# Towards-Zero-Waste-Data-Visualization-of-Food-Waste-Using-Google-Looker-Studio
-Towards Zero Waste: Data Visualization of Food Waste Using Google Looker Studio
+# Towards Zero Waste: Data Visualization of Food Waste Using Google Looker Studio
+Basically, this project highlights the issue of food waste caused by food wastage in various countries. This analysis is based on the "Food Waste" dataset obtained from Kaggle. Through analysis by applying visualization to this dataset, several crucial aspects will be identified, such as the level of food wastage, the sectors contributing to food wastage, and regional patterns in food wastage. In the context of the Sustainable Development Goals (SDGs), this analysis is relevant to SDG 12: Responsible Consumption and Production.
